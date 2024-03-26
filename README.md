@@ -15,7 +15,7 @@ The project is structured as follows:
 - Implementation of Gini index as an alternative impurity measure.
 3. Add Reduced-Error Pruning
 - Recursive function to prune the decision tree and improve generalization.
-4. Evaluate Your Algorithm
+4. Evaluatation of the Algorithm
 - Loading and splitting the dataset for training and testing.
 - Training the decision tree and evaluating its accuracy.
 - Visualizing accuracy and computation time.
